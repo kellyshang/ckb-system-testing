@@ -35,7 +35,7 @@
       <class name="org.nervos.ckb.jsonrpcTest.GetEpochByNumberTest"/>
     </classes>
   </test>
-  <test name="LOAD Tests" preserve-order="true" verbose="2">
+  <test name="LOAD Tests" preserve-order="true" verbose="2" enabled="false">
     <classes>
       <class name="org.nervos.ckb.loadTest.LoadTest"/>
     </classes>
